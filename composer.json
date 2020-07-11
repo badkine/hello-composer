@@ -1,0 +1,11 @@
+{
+    "name": "sumit/hello-composer",
+    "description": "own package",
+    "authors": [
+        {
+            "name": "sumit",
+            "email": "sumit.adkineb@gmail.com"
+        }
+    ],
+    "require": {}
+}
