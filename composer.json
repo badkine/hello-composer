@@ -5,10 +5,10 @@
 		"name": "sumit",
 		"email": "sumit.adkineb@gmail.com"
 	}],
-	"require": {
-		"php": ">=7.0.0"
-	},
 	"autoload": {
-		"files": ["hello.php"]
-	}
+		"PSR4": {
+			"hello.php"
+		}
+	},
+	"require": {}
 }
