@@ -10,7 +10,7 @@
     "require": {}
     {
     "autoload": {
-        "files": ["hello.php"]
+        "files": ["src/hello.php"]
     }
 }
 }
