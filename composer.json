@@ -7,10 +7,10 @@
             "email": "sumit.adkineb@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
     {
     "autoload": {
-        "files": ["src/hello.php"]
-    }
+        "files": ["hello.php"]
+    }   
 }
 }
