@@ -1,18 +1,14 @@
 {
-    "name": "sumit/hello-composer",
-    "description": "own package",
-    "authors": [
-        {
-            "name": "sumit",
-            "email": "sumit.adkineb@gmail.com"
-        }
-    ],
-     "require": {
-        "php": ">=7.0.0"       
-    },
-    {
-    "autoload": {
-        "files": ["hello.php"]
-    }   
-}
+	"name": "sumit/hello-composer",
+	"description": "own package",
+	"authors": [{
+		"name": "sumit",
+		"email": "sumit.adkineb@gmail.com"
+	}],
+	"require": {
+		"php": ">=7.0.0"
+	},
+	"autoload": {
+		"files": ["hello.php"]
+	}
 }
